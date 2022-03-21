@@ -17,9 +17,9 @@
         }
     ],
     "require": {
-        "php": "^7.4",
-        "illuminate/database": "^8.13",
+        "php": "^8.0",
+        "illuminate/database": "^9.5",
         "nesbot/carbon": "^2.41",
-        "phpoffice/phpword": "^0.17.0"
+        "phpoffice/phpword": "^0.18.0"
     }
 }
